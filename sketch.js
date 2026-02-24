@@ -10,7 +10,7 @@ let startAllRadius = 20;
 
 //stats
 let prestige = 0;
-let wins = 100;
+let wins = 0;
 let originGrowSize = 100;
 let originUPGAmount = 1;
 let growSize = 4;
